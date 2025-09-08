@@ -23,5 +23,5 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/hugo-velasquez-gonzalez/)]
+[![LinkedIn](www.linkedin.com/in/hugo-velasquez-gonzalez)]
 
