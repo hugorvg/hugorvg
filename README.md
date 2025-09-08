@@ -8,7 +8,7 @@
 
 - **Languages**: Python, JavaScript, TypeScript, HTML, CSS  
 - **Frameworks/Libraries**: React Native, React  
-- **Familiar With**: Java, C 
+- **Familiar With**: Java, C, mySQL, Database modeling 
 
 ## Projects
 
