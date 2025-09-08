@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I’m Hugo Velasquez
 
-<!--
-**hugorvg/hugorvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student**
 
-Here are some ideas to get you started:
+- 📚 Pursuing my passion for tech through software engineering studies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+
+- **Languages**: Python, JavaScript, TypeScript, HTML, CSS  
+- **Frameworks/Libraries**: React Native, React  
+- **Familiar With**: Java, C 
+
+## 🚀 Projects
+
+- Currently developing a **mobile app** for Android and IOS(repo is private for now, but stay tuned!)
+
+
+## ⚡ Interests
+
+- **Smart Devices**: Always curious about the latest in IoT and connected tech.
+- **Sports**: Bouldering, soccer, and a bit of everything. Sports are a big part of my life!
+- **Gaming**: Apex and Rocket League thanks for existing.
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://www.linkedin.com/in/hugo-velasquez-gonzalez/)
+
