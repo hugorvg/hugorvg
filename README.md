@@ -12,7 +12,7 @@
 
 ## Projects
 
-- Currently developing a **mobile app** for Android and IOS (repo is private for now, but stay tuned!)
+- Currently developing a **mobile app** for Android and IOS (repo is private for now)
 
 
 ##  Interests
